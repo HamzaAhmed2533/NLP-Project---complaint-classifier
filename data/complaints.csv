@@ -1,0 +1,61 @@
+text,label
+The buttons on the device are stuck and unresponsive.,product_defect
+My order was marked returned without any delivery attempt.,delivery_problem
+My account was locked and customer service cannot explain why.,service_complaint
+My credit card was debited but no confirmation email was sent.,billing_issue
+The item I ordered was delivered to the wrong address.,delivery_problem
+The estimated delivery date keeps being pushed back.,delivery_problem
+I have been trying to cancel my subscription for two months.,service_complaint
+I received no acknowledgment after submitting my complaint form.,service_complaint
+The device does not power on even after following setup instructions.,product_defect
+I never received the shipping confirmation for my order.,delivery_problem
+The late fee on my account was applied unfairly.,billing_issue
+The size I received does not match the size I ordered online.,product_defect
+The item I received has a visible crack right out of the box.,product_defect
+The customer support representative was rude and unhelpful.,service_complaint
+The product stopped working after just two days of use.,product_defect
+I was promised a callback that never happened.,service_complaint
+I have been overcharged on my monthly statement again.,billing_issue
+Half of my order was missing when the parcel arrived.,delivery_problem
+The support team closed my ticket without resolving the issue.,service_complaint
+There is an unauthorized transaction on my account.,billing_issue
+I paid for same-day delivery but received it three days later.,delivery_problem
+I cannot understand the breakdown of charges on my invoice.,billing_issue
+The refund process was explained incorrectly by the support team.,service_complaint
+The courier attempted delivery without ringing the doorbell.,delivery_problem
+The battery drains completely within an hour of full charge.,product_defect
+Items in my shipment were broken because of inadequate padding.,delivery_problem
+I was charged twice for the same order and need a refund immediately.,billing_issue
+The product did not match the description or photos on the website.,product_defect
+I have been waiting over two weeks for a standard delivery.,delivery_problem
+The live chat disconnected multiple times during my complaint.,service_complaint
+The package arrived completely damaged due to poor packaging.,delivery_problem
+The parcel was left in an unsecured location and is now missing.,delivery_problem
+The fabric shrank significantly after the first wash.,product_defect
+The tracking number provided does not work on the courier website.,delivery_problem
+The technician who visited my home did not fix the problem.,service_complaint
+I was billed at the old price after a plan change.,billing_issue
+There are scratches and marks on the product despite brand-new packaging.,product_defect
+The screen has dead pixels and is unusable.,product_defect
+The color of the product is completely different from what I ordered.,product_defect
+The agent gave me incorrect information about my warranty.,service_complaint
+The subscription fee was renewed without my consent.,billing_issue
+I waited on hold for over an hour and my issue was never resolved.,service_complaint
+Staff at the store were dismissive and unwilling to assist.,service_complaint
+The invoice I received does not match the amount I was quoted.,billing_issue
+My express delivery was shipped via standard delivery instead.,delivery_problem
+The product has a strange odor that does not go away.,product_defect
+I requested a refund three weeks ago and still have not received it.,billing_issue
+The zipper on the bag broke within the first week.,product_defect
+I was transferred between five departments and still got no help.,service_complaint
+Several components were missing from the product box.,product_defect
+The discount coupon was not applied to my bill.,billing_issue
+The service was interrupted without any prior notice.,service_complaint
+I received a bill for a service I never signed up for.,billing_issue
+I need an itemized bill for my last three purchases.,billing_issue
+My package has not arrived even though tracking shows it was delivered.,delivery_problem
+My delivery is three days late with no update from the courier.,delivery_problem
+No one has responded to my email complaint submitted last week.,service_complaint
+My bill shows extra charges that were never explained to me.,billing_issue
+My payment was processed but the order shows as unpaid.,billing_issue
+The product manual describes features that are not present on my unit.,product_defect
